@@ -1,4 +1,4 @@
-# LogicSec C2 Framework | Hot-Loaded PSX Modules
+# LogicSec C2 Framework | Hot-Loadable PSX Modules
 
 > *Lightweight, PowerShell-based C2 with a built-in web dashboard & hot-loadable PSX modules.*
 
