@@ -34,7 +34,7 @@ Traditional C2 frameworks are either:
 ```text
 ┌─────────────────┐       ┌─────────────────────────────────┐
 │   Dashboard     │       │          TeamServer             │
-│  (Embedded UI)  │◄──────┤  (augsrv.ps1 - HttpListener)  │
+│  (Embedded UI)  │◄──────┤  (srv.ps1 - HttpListener)       │
 │   HTML/CSS/JS   │       │                                 │
 └─────────────────┘       └───────────────┬─────────────────┘
                                           │
@@ -189,24 +189,23 @@ Built-in reference documentation for:
 
 ### Dashboard — Beacon Check-In & Console
 
-![Dashboard — Beacon Check-In & Console](https://screenshot%25202026-09-06%2520185240.png/)
+![Dashboard — Beacon Check-In & Console](./img/Screenshot%202026-09-06%20185240.png)
 
 ### Payload Generator
 
-![Payload Generator](https://screenshot%25202026-09-06%2520184950.png/)
+![Payload Generator](./img/Screenshot%202026-09-06%20184950.png)
 
 ### PSX Module Manager
 
-![PSX Module Manager](https://screenshot%25202026-09-06%2520185009.png/)
+![PSX Module Manager](./img/Screenshot%202026-09-06%20185009.png)
 
 ### Parameterized Module Dispatch
 
-![Parameterized Module Dispatch](https://screenshot%25202026-09-06%2520185258.png/)
+![Parameterized Module Dispatch](./img/Screenshot%202026-09-06%20185258.png)
 
 ### TeamServer Startup
 
-![TeamServer Startup](https://screenshot%25202026-09-06%2520184644.png/)
-
+![TeamServer Startup](./img/Screenshot%202026-09-06%20184644.png)
 ---
 
 ## 🔧 Deployment & Usage
